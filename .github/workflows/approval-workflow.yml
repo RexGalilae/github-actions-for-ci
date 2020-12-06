@@ -1,1 +1,2 @@
 name: Rex's depressing workflow
+on: pull_request_review
